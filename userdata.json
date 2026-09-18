@@ -1,5 +1,11 @@
 [
     {
+        "device_id": "effaf3dec329b2dc",
+        "key": "effaf3dec329b2dc",
+        "expirydate": "03-01-2030",
+        "Allowoffline": true
+    },
+    {
         "device_id": "adf0fcf7433d08ef",
         "key": "adf0fcf7433d08ef",
         "expirydate": "03-01-2030",
